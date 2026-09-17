@@ -35,7 +35,7 @@ Flutter • Dart
 HTML • CSS • JavaScript • Tailwind CSS
 
 ### Databases
-MySQL • Firebase
+MySQL • PostgreSQL
 
 ### Tools & Infrastructure
 Git • GitHub • Linux • Nginx • Composer • Firebase • Google Cloud
